@@ -8,8 +8,16 @@ Eu sou o Robson Cândido, sou um programador Front end, atualmente estou aprende
   - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="java-logo" />
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
 
-
-
+### Connect with me:
+<a href="https://www.facebook.com/robson.silva.9484/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/roobx21/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<br>
+<br>
+<br>
 
 [![Robson Statics](https://github-readme-stats.vercel.app/api?username=Robx33)](https://github.com/anuraghazra/github-readme-stats)
 
