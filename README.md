@@ -38,6 +38,8 @@ Eu sou o Robson Cândido, sou um programador Front end, atualmente estou aprende
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
    </div>
+    
+    ![Snake animation](https://github.com/Robx33/Robx33/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Robx33/Robx33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
